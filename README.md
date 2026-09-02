@@ -29,4 +29,4 @@ HR Employee Dataset (CSV) containing 1,480 employee records and 38 attributes re
 - Identified **high-attrition employee segments**
 - Created interactive visualizations to support **data-driven HR decision-making**
 ## 5. Dashboard Preview
-
+https://github.com/Kavyanjali-Dagar/HR-Analytics-Attrition-Dashboard/blob/main/HR%20Dashboard%20SS.png
